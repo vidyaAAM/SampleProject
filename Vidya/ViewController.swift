@@ -18,11 +18,19 @@ class ViewController: UIViewController {
            print("iOS developer")
         
         print("************************")
-        print("Nayan ")
+            print("Nayan ")
         
           print("************************")
             print("iOS developer")
         print("************************")
+             print("Bitcode technology....")
+        
+        
+        
+        
+        
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
